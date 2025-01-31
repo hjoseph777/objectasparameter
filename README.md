@@ -1,4 +1,4 @@
-# Fraction Calculator Project
+# Fraction Calculator Project LAB 4
 
 This project implements a fraction calculator that performs basic arithmetic operations on fractions.
 
